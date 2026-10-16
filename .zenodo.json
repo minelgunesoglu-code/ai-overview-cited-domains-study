@@ -1,0 +1,38 @@
+{
+  "upload_type": "dataset",
+  "title": "AI Overview Cited-Domains Study: which domains Google's AI Overview cites on 24 buyer searches",
+  "version": "1.0.0",
+  "publication_date": "2026-06-10",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Gunesoglu, Minel",
+      "affiliation": "Is My Brand in AI",
+      "orcid": "0009-0009-4823-6016"
+    }
+  ],
+  "description": "<p>Twenty-four \"best [category]\" buyer searches, spread across business software, consumer products, finance and lifestyle, were run once each in Google on 10 June 2026 with US English settings (<code>gl=us</code>, <code>hl=en</code>). Where an AI Overview appeared, its \"N sites\" source panel was opened and every distinct domain it listed was recorded by hand, with the panel's source count and a short note.</p><p>Main results. Twenty-one of the 24 searches produced an AI Overview; the other three, all physical retail products, returned a Shopping grid instead. Reddit was cited in 13 of the 21 AI Overviews, 62 per cent, more than twice the next domains: Forbes and YouTube 6 each, PCMag 5, Zapier 4 and NerdWallet 3. A forum, Reddit or the Clark Howard community, was cited in 14 of the 21. Reddit was absent from the accounting, AI writing, help desk and web conferencing searches and from the travel credit card search, which cited finance media only. An AI Overview listed a median of 8 sources, range 5 to 12.</p><p>Counting rules. A grouped panel entry such as \"Zapier +3\" counts once. A few entries could not be resolved to a domain and are left out of the domain list. \"No AI Overview\" means none appeared on this run.</p><p>Contents and limits. The deposit holds data and method notes: the 24 per-query rows as CSV and JSON, as published with the article plus one column, <code>panel_count_reading</code>, which marks whether each panel count was recorded as exact or approximate; and <code>notes/verify.py</code>, standard library only, which recounts every figure published in the article from the rows. One engine, one day, one run per query, English-language searches only. Site types were assigned by hand from each source's title and brand.</p>",
+  "keywords": [
+    "Google AI Overviews",
+    "AI search",
+    "citation",
+    "generative engine optimization",
+    "Reddit",
+    "search engine results page"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://ismybrandinai.com/most-cited-sources-in-ai-overviews",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://github.com/minelgunesoglu-code/ai-overview-cited-domains-study",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "The CC BY 4.0 licence applies to the material produced by the author. Domain names, page titles and publisher names in the rows identify third parties and are reproduced as the object of study; brand and product names belong to their owners. See LICENCE-NOTES.md in the archive."
+}

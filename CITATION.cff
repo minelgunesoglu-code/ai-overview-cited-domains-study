@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: >-
+  AI Overview Cited-Domains Study: which domains Google's AI Overview cites on
+  24 buyer searches
+message: If you use this dataset, please cite it.
+type: dataset
+authors:
+  - given-names: Minel
+    family-names: Gunesoglu
+    affiliation: Is My Brand in AI
+    email: minel@ismybrandinai.com
+    orcid: 'https://orcid.org/0009-0009-4823-6016'
+abstract: >-
+  Twenty-four "best [category]" buyer searches across business software,
+  consumer products, finance and lifestyle were run once each through Google on
+  10 June 2026, with US English settings, and every domain listed in
+  the AI Overview source panel was recorded by hand. Twenty-one searches
+  produced an AI Overview; three physical retail searches returned a Shopping
+  grid instead. Reddit was cited in 13 of the 21 AI Overviews, more than twice
+  the next domains, Forbes and YouTube at 6 each, followed by PCMag (5), Zapier
+  (4) and NerdWallet (3). A forum, Reddit or the Clark Howard community, was
+  cited in 14 of the 21. An AI Overview listed a median of 8 sources, range 5
+  to 12. The per-query rows and a script that recounts every published figure
+  from them are included.
+keywords:
+  - Google AI Overviews
+  - AI search
+  - citation
+  - generative engine optimization
+  - Reddit
+  - search engine results page
+license: CC-BY-4.0
+date-released: '2026-06-10'
+url: https://ismybrandinai.com/most-cited-sources-in-ai-overviews
+repository-code: https://github.com/minelgunesoglu-code/ai-overview-cited-domains-study
