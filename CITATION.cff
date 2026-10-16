@@ -33,3 +33,11 @@ license: CC-BY-4.0
 date-released: '2026-06-10'
 url: https://ismybrandinai.com/most-cited-sources-in-ai-overviews
 repository-code: https://github.com/minelgunesoglu-code/ai-overview-cited-domains-study
+doi: "10.5281/zenodo.23427378"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23427378"
+    description: Concept DOI, resolves to the latest version
+  - type: doi
+    value: "10.5281/zenodo.23427379"
+    description: Version 1.0.0

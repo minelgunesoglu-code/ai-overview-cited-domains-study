@@ -6,7 +6,7 @@
 |---|---|
 | **Article** | https://ismybrandinai.com/most-cited-sources-in-ai-overviews |
 | **Repository** | https://github.com/minelgunesoglu-code/ai-overview-cited-domains-study |
-| **Archive** | DOI: to be added after the Zenodo release |
+| **Archive** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23427378.svg)](https://doi.org/10.5281/zenodo.23427378) concept DOI, resolves to the latest version |
 | **Collected** | 10 June 2026, by hand, one run per query |
 | **Engine** | Google AI Overview, the source panel it labels "N sites" |
 | **Sample** | 24 "best [category]" buyer searches across business software, consumer products, finance and lifestyle; 21 produced an AI Overview, 3 returned a Shopping grid instead |
